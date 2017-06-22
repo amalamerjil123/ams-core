@@ -12,6 +12,7 @@ import org.springframework.web.bind.annotation.RestController;
 import com.training.DTO.StudentAttendanceDTO;
 import com.training.service.AttendanceReportService;
 
+
 @CrossOrigin
 @RestController
 @RequestMapping("/attendanceReport")
